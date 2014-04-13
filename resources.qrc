@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/isoline" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
